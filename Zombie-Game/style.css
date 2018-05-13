@@ -1,0 +1,136 @@
+body {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.Main_Spotlight_Img {
+    margin: auto;
+    width: 75%;
+    padding: 10px;
+    text-align: center;
+}
+
+.Main_Spotlight_Link {
+    margin: auto;
+    width: 75%;
+    padding: 10px;
+    text-align: center;
+}
+
+.Main_Spotlight_Action {
+    margin: auto;
+    width: 75%;
+    padding: 10px;
+    text-align: center;
+}
+
+.Site_Title_Img {
+    margin: auto;
+    width: 30%;
+    height: auto;
+    padding: 10px;
+    align-items: center;
+}
+
+.container {
+    margin: auto;
+    width: 75%;
+    padding: 10px;
+    text-align: center;
+}
+
+.Footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+}
+
+h3 h5 {
+    font-weight: bold;
+    padding: 55px;
+}
+
+a {
+    padding: 15px;
+    margin: 10px;
+    font-size: 20px;
+    font-style: italic;
+    color: rgb(194, 137, 31);
+}
+
+p {
+    padding: 15px;
+    color: rgb(52, 235, 35);
+    font-size: 20px;
+}
+
+@media screen and (max-width:768px) {}
+
+.Main_Spotlight_Img {
+    margin: auto;
+    width: 70%;
+    padding: 10px;
+    text-align: center;
+}
+
+.Main_Spotlight_Link {
+    width: 70%;
+    padding: 10px;
+    text-align: center;
+}
+
+.Main_Spotlight_Action {
+    width: 70%;
+    padding: 10px;
+    text-align: center;
+}
+
+.Site_Title_Img {
+    width: 70%;
+    padding: 10px;
+    text-align: center;
+}
+
+.container {
+    width: 70%;
+    padding: 10px;
+    text-align: center;
+}
+
+@media screen and (max-width:320px) {
+    .Main_Spotlight_Img {
+        margin: auto;
+        width: 100%;
+        padding: 10px;
+        text-align: center;
+    }
+    .Main_Spotlight_Link {
+        margin: auto;
+        width: 100%;
+        padding: 10px;
+        text-align: center;
+    }
+    .Main_Spotlight_Action {
+        margin: auto;
+        width: 100%;
+        padding: 10px;
+        text-align: center;
+    }
+    .Site_Title_Img {
+        margin: auto;
+        width: auto;
+        padding: 10px;
+        text-align: center;
+    }
+    .container {
+        margin: auto;
+        width: 100%;
+        padding: 10px;
+        text-align: center;
+    }
+}
