@@ -21,3 +21,6 @@
     * Delete a post
 
 * **If things aren't working as expected, check to see if any errors logged to the terminal.**
+
+
+*New*
