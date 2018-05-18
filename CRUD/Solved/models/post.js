@@ -21,3 +21,6 @@ module.exports = function(sequelize, DataTypes) {
   });
   return Post;
 };
+
+
+var Get = nightmare.define("Get", {})
